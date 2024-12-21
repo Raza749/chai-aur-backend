@@ -11,5 +11,8 @@
     "JavaScript"
   ],
   "author": "Raza A",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
 }
